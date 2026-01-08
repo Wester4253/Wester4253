@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Noa Butterfield and I'm a High School Studen from BC Canada</h1>
+<h1 align="center">Hi 👋! My name is Noa Butterfield and I'm a High School Student from BC Canada</h1>
 
 ###
 
