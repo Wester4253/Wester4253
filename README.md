@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋! My name is Noa Butterfield and I'm a High School Student from BC Canada</h1>
 
 ###
+<h2 align="center">My favorite languages right now :</h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -43,7 +45,8 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/h6T7YUwIn5UAAAAM/blahaj-go-spinny-blahaj.gif"  />
+<img align="left" height="100" src="https://media.tenor.com/h6T7YUwIn5UAAAAM/blahaj-go-spinny-blahaj.gif"  />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=350&height=75&lines=I+love+public+transit%F0%9F%9A%8D%E2%9D%A4%EF%B8%8F;I+am+in+high+school;I+use+arch+btw" alt="Typing SVG" /></a>
 
 ###
 
