@@ -3,25 +3,40 @@
 {
   "name": "Noa",
   "location": "Victoria, BC 🇨🇦",
-  "occupation": ["student @ PSII", "IT @ PSII"],
+  "occupation": ["Student @ PSII"],
 
   "os": {
     "primary": "Arch Linux",
-    "also_runs": ["Proxmox VE", "whatever the school needs"]
+    "also_runs": ["Proxmox VE", "Windows 11"]
   },
 
-  "shell": "fish",
-  "terminal": "kitty",
-  "editor": "VSCode",
+  "shell": "Fish", "Bash",
+  "terminal": "Kitty", "Termux",
+  "editor": "Zed",
 
   "hardware": {
-    "desktop": {
-      "cpu": "Ryzen 9 3900X",
+    "MainPC": {
+      "cpu": "1x AMD Ryzen 9 3900X",
       "gpu": "MSI RTX 3070",
+      "storage": "1TB NVMe",
       "ram": "32GB DDR4"
     },
-    "server_infra": "Proxmox cluster (multi-node)",
-    "network": "TP-Link Omada"
+    "Laptop": {
+      "cpu": "1x Intel Core i5-1334U",
+      "storage": "512GB SSD",
+      "ram": "16GB DDR4",
+      "os": "Arch Linux (bspwm)"
+    },
+    "Server1": {
+      "cpu": "20x Intel Xeon E5-2690",
+      "storage": "5.6TB",
+      "ram": "64GB DDR3"
+    },
+    "Server2": {
+      "cpu": "12x Intel Core i7-8700",
+      "storage": "1TB",
+      "ram": "32GB DDR4"
+    },
   },
 
   "interests": [
@@ -37,8 +52,8 @@
 
   "currently": {
     "learning": "more than I can handle",
-    "building": ["school IT infra", "homelab stuff", "too many side projects"],
-    "running": ["Proxmox", "Home Assistant", "Tailscale", "various Docker containers"]
+    "building": ["ESP32 Marauder", "Homelab Stuff", "too many side projects"],
+    "running": ["Proxmox", "Ollama", "Tailscale", "Arch Linux"]
   },
 
   "reach_me": {
