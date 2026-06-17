@@ -52,7 +52,7 @@
 
   "currently": {
     "learning": "more than I can handle",
-    "building": ["Oneclaw - (another stupid ai agent app)", "ESP32 Marauder", "Homelab Stuff", "too many side projects"],
+    "building": ["Oneclaw - (another stupid ai agent app)", "Homelab Stuff", "too many side projects"],
     "running": ["Proxmox", "Ollama", "Tailscale", "Arch Linux"]
   },
 
