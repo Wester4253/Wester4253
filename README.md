@@ -10,9 +10,9 @@
     "also_runs": ["Proxmox VE", "Windows 11"]
   },
 
-  "shell": "Fish", "Bash",
-  "terminal": "Kitty", "Termux",
-  "editor": "Zed",
+  "shell": "Fish",
+  "terminal": "Kitty",
+  "editor": "Micro", "Zed",
 
   "hardware": {
     "MainPC": {
@@ -28,12 +28,12 @@
       "os": "Arch Linux (bspwm)"
     },
     "Server1": {
-      "cpu": "20x Intel Xeon E5-2690",
+      "cpu": "1x Intel Xeon E5-2690",
       "storage": "5.6TB",
       "ram": "64GB DDR3"
     },
     "Server2": {
-      "cpu": "12x Intel Core i7-8700",
+      "cpu": "1x Intel Core i7-8700",
       "storage": "1TB",
       "ram": "32GB DDR4"
     },
@@ -52,12 +52,12 @@
 
   "currently": {
     "learning": "more than I can handle",
-    "building": ["ESP32 Marauder", "Homelab Stuff", "too many side projects"],
+    "building": ["Oneclaw - (another stupid ai agent app)", "ESP32 Marauder", "Homelab Stuff", "too many side projects"],
     "running": ["Proxmox", "Ollama", "Tailscale", "Arch Linux"]
   },
 
   "reach_me": {
-    "email": "hello@westr42.xyz",
+    "email": "wstr@westr42.xyz",
     "github": "you're already here"
   }
 }
