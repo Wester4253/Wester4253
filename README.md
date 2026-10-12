@@ -1,78 +1,76 @@
-![Title](https://ascii-galaxy.vercel.app/api?width=800&height=200&text=Wester4253&font=Poison&fontSize=10&textColor=ffffff)
-```json
-{
-  "name": "Noa",
-  "location": "Victoria, BC",
-  "occupation": ["Student @ PSII"],
+<p align="center">
+  <img src="https://ascii-galaxy.vercel.app/api?width=800&height=400&text=Noelle&font=Poison&fontSize=20&textColor=FFB000" alt="Noelle" />
+</p>
 
-  "os": {
-    "primary": "CachyOS",
-    "also_runs": ["Proxmox VE", "Arch Linux"]
-  },
+<p align="center">
+  <b>Noelle</b> · she/her · Victoria, BC · Student @ PSII<br>
+  <i>professional linux larper</i>
+</p>
 
-  "shell": "Fish",
-  "terminal": "Kitty",
-  "editor": ["Micro", "Zed"],
+<details>
+<summary><b>🖥️ Hardware &amp; servers</b></summary>
 
-  "hardware": {
-    "MainPC": {
-      "cpu": "1x AMD Ryzen 9 3900X",
-      "gpu": "MSI RTX 3070",
-      "storage": "1TB NVMe",
-      "ram": "32GB DDR4",
-      "os": "CachyOS (KDE)"
-    },
-    "Laptop": {
-      "cpu": "1x Intel Core i5-1334U",
-      "storage": "512GB SSD",
-      "ram": "16GB DDR4",
-      "os": "Arch Linux (bspwm)"
-    },
-    "Server1": {
-      "cpu": "1x Intel Xeon E5-2690",
-      "storage": "5.6TB",
-      "ram": "64GB DDR3",
-      "os": "Proxmox VE"
-    },
-    "Server2": {
-      "cpu": "1x Intel Core i7-8700",
-      "storage": "1TB",
-      "ram": "32GB DDR4",
-      "os": "Proxmox VE"
-    }
-  },
+<br>
 
-  "interests": [
-    "self-hosting",
-    "linux",
-    "networking",
-    "hardware tinkering",
-    "automation",
-    "music",
-    "hiking & camping",
-    "urbexing"
-  ],
+| Machine | CPU | GPU | RAM | Storage | OS |
+|---|---|---|---|---|---|
+| Main PC | AMD Ryzen 9 3900X | MSI RTX 3070 | 32GB DDR4 | 1TB NVMe | CachyOS (KDE) |
+| Laptop | Intel Core i5-1334U | n/a | 16GB DDR4 | 512GB SSD | Arch Linux (bspwm) |
+| Server1 | Intel Xeon E5-2690 | n/a | 64GB DDR3 | 5.6TB | Proxmox VE |
+| Server2 | Intel Core i7-8700 | n/a | 32GB DDR4 | 1TB | Proxmox VE |
 
-  "currently": {
-    "learning": "more than I can handle",
-    "building": [
-      "Oneclaw - (another stupid ai agent app)",
-      "Lightctl",
-      "Homelab Stuff",
-      "too many side projects"
-    ],
-    "running": [
-      "Proxmox",
-      "Ollama",
-      "Netbird",
-      "Arch Linux",
-      "CachyOS"
-    ]
-  },
+</details>
 
-  "reach_me": {
-    "email": "wstr@westr42.xyz",
-    "github": "you're already here"
-  }
-}
-```
+<details>
+<summary><b>⌨️ Setup</b></summary>
+
+<br>
+
+- **OS:** CachyOS (also runs Proxmox VE and Arch Linux)
+- **Shell:** Fish
+- **Terminal:** Kitty
+- **Editors:** Micro, Zed
+- **Running:** Proxmox, Ollama, Netbird, Arch Linux, CachyOS
+
+</details>
+
+<details>
+<summary><b>🔨 Projects</b></summary>
+
+<br>
+
+- **[Ion](https://github.com/Wester4253/Ion)**: (WIP) custom Discord client for Linux and Android that pulls in features from other clients and mods. TypeScript, GPL-3.0. Yes, I needed another Discord client.
+- **[smart-room-dashboard](https://github.com/Wester4253/smart-room-dasboard)**: Android app + Home Assistant custom integration that acts as a smart room panel, mainly for todo lists. Kotlin.
+- **Home Assistant stuff**: [alarmbridge-ha](https://github.com/Wester4253/alarmbridge-ha), [hacs-alarm](https://github.com/Wester4253/hacs-alarm) and [hacs-alarm-card](https://github.com/Wester4253/hacs-alarm-card): alarm integration, card and bridge for HA.
+
+</details>
+
+<details>
+<summary><b>🌱 Currently</b></summary>
+
+<br>
+
+- **Learning:** more than I can handle
+- **Building:** Ion, smart-room-dashboard, too many side projects
+
+</details>
+
+<details>
+<summary><b>🏕️ Interests</b></summary>
+
+<br>
+
+self-hosting · linux · networking · hardware tinkering · automation · home assistant · music · hiking &amp; camping · urbexing
+
+</details>
+
+<details>
+<summary><b>📫 Reach me</b></summary>
+
+<br>
+
+- **Email:** wstr@westr42.xyz
+- **Website:** [westr42.xyz](https://westr42.xyz)
+- **GitHub:** you're already here
+
+</details>
