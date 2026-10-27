@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ascii-galaxy.vercel.app/api?width=800&height=400&text=Noa&font=Poison&fontSize=20&textColor=FFB000" alt="Noa" />
+  <img src="https://ascii-galaxy.vercel.app/api?width=800&height=400&text=Noa+Butterfield&font=Poison&fontSize=20&textColor=FFB000" alt="Noa" />
 </p>
 
 <p align="center">
