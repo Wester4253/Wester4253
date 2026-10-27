@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://ascii-galaxy.vercel.app/api?width=800&height=400&text=Noelle&font=Poison&fontSize=20&textColor=FFB000" alt="Noelle" />
+  <img src="https://ascii-galaxy.vercel.app/api?width=800&height=400&text=Noa&font=Poison&fontSize=20&textColor=FFB000" alt="Noa" />
 </p>
 
 <p align="center">
-  <b>Noelle</b> · she/her · Victoria, BC · Student @ PSII<br>
+  <b>Noa</b> · he/she · Victoria, BC · Student @ PSII<br>
   <i>professional linux larper</i>
 </p>
 
