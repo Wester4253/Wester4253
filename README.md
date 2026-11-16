@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary><b>⌨️ Setup</b></summary>
+<summary><b>Setup</b></summary>
 
 <br>
 
