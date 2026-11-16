@@ -15,9 +15,10 @@
 | Machine | CPU | GPU | RAM | Storage | OS |
 |---|---|---|---|---|---|
 | Main PC | AMD Ryzen 9 3900X | MSI RTX 3070 | 32GB DDR4 | 1TB NVMe | CachyOS (KDE) |
-| Laptop | Intel Core i5-1334U | n/a | 16GB DDR4 | 512GB SSD | Arch Linux (bspwm) |
-| Server1 | Intel Xeon E5-2690 | n/a | 64GB DDR3 | 5.6TB | Proxmox VE |
-| Server2 | Intel Core i7-8700 | n/a | 32GB DDR4 | 1TB | Proxmox VE |
+| Laptop | Intel Core i5-1334U | n/a | 16GB DDR4 | 512GB SSD | Arch Linux (Hyprland) |
+| Alpha1 | Intel Xeon E5-2690 | n/a | 64GB DDR3 | 5.6TB | Proxmox VE |
+| Beta2 | Intel Core i7-8700 | n/a | 32GB DDR4 | 1TB | Proxmox VE |
+| Gamma3 | AMD Ryzen 5 7520U | n/a | 16GB DDR4 | 512GB SSD | Ubuntu Server LTS |
 
 </details>
 
