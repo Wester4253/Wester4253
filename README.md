@@ -8,7 +8,7 @@
 </p>
 
 <details>
-<summary><b>🖥️ Hardware &amp; servers</b></summary>
+<summary><b>Hardware &amp; servers</b></summary>
 
 <br>
 
@@ -26,37 +26,37 @@
 
 <br>
 
-- **OS:** CachyOS (also runs Proxmox VE and Arch Linux)
+- **OS:** CachyOS, Arch, Proxmox VE
 - **Shell:** Fish
 - **Terminal:** Kitty
-- **Editors:** Micro, Zed
-- **Running:** Proxmox, Ollama, Netbird, Arch Linux, CachyOS
+- **Editors:** Micro, Code, OhMyPi
+- **Running:** Proxmox, Docker, Portainer, Tailscale, Arch Linux, CachyOS
 
 </details>
 
 <details>
-<summary><b>🔨 Projects</b></summary>
+<summary><b>Projects</b></summary>
 
 <br>
 
 - **[Ion](https://github.com/Wester4253/Ion)**: (WIP) custom Discord client for Linux and Android that pulls in features from other clients and mods. TypeScript, GPL-3.0. Yes, I needed another Discord client.
-- **[smart-room-dashboard](https://github.com/Wester4253/smart-room-dasboard)**: Android app + Home Assistant custom integration that acts as a smart room panel, mainly for todo lists. Kotlin.
+- **Exotbot** (WIP) A personal AI agent meant for those who selfhost everything, and hate paying.
 - **Home Assistant stuff**: [alarmbridge-ha](https://github.com/Wester4253/alarmbridge-ha), [hacs-alarm](https://github.com/Wester4253/hacs-alarm) and [hacs-alarm-card](https://github.com/Wester4253/hacs-alarm-card): alarm integration, card and bridge for HA.
 
 </details>
 
 <details>
-<summary><b>🌱 Currently</b></summary>
+<summary><b>Currently</b></summary>
 
 <br>
 
 - **Learning:** more than I can handle
-- **Building:** Ion, smart-room-dashboard, too many side projects
+- **Building:** ExoBot, Smart Room, too many side projects
 
 </details>
 
 <details>
-<summary><b>🏕️ Interests</b></summary>
+<summary><b>Interests</b></summary>
 
 <br>
 
@@ -65,11 +65,11 @@ self-hosting · linux · networking · hardware tinkering · automation · home 
 </details>
 
 <details>
-<summary><b>📫 Reach me</b></summary>
+<summary><b>Reach me</b></summary>
 
 <br>
 
-- **Email:** wstr@westr42.xyz
+- **Email:** [wstr@westr42.xyz](mailto:wstr@westr42.xyz)
 - **Website:** [westr42.xyz](https://westr42.xyz)
 - **GitHub:** you're already here
 
