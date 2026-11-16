@@ -1,0 +1,1 @@
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Wester4253&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=Wester4253&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=aura)
